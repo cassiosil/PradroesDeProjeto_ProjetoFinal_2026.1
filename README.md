@@ -2,9 +2,7 @@ Padrões de Projeto - 2026.1
 
 Prof - Felipe Gustavo de Souza Gomes
 
-Alunos - Cassio Silva dos Santos,
-
-         Paulo Victor Chagas de Jesus
+Alunos - Cassio Silva dos Santos, Paulo Victor Chagas de Jesus
          
 Projeto final - Gerenciamento de pedidos
 
