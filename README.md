@@ -5,6 +5,7 @@ Alunos - Cassio Silva dos Santos,
 Projeto final - Gerenciamento de pedidos
 
 Rode os comandos abaixo no terminal: 
+
 javac -d bin src/Main.java
 
 java -cp bin Main
